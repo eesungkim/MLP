@@ -1,9 +1,3 @@
-# Multi-Layer Perceptron (MLP)
-Multi-Layer Perceptron C++ Implementation for MNIST
+# Deep Belief Network (DBN), Multi-Layer Perceptron (MLP)
 
-# Deep Belief Network (DBN) 
-Deep Belief Network C++ Implementation for MNIST
-
-
-
-
+C++ Code for training and evaluating multi-layer perceptron (MLP) and deep belief networks (DBN).
