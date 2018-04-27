@@ -1,3 +1,3 @@
-# Deep Belief Network (DBN), Multi-Layer Perceptron (MLP)
+# DNN (DBN)
 
-C++ Code for training and evaluating multi-layer perceptron (MLP) and deep belief networks (DBN).
+C++ Code for training and evaluating Deep Neural Networks using deep belief networks (DBN).
